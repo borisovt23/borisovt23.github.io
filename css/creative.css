@@ -13,8 +13,8 @@ body {
 }
 hr {
   border-color: #F05F40;
-  border-width: 3px;
-  max-width: 50px;
+  border-width: 4.5px;
+  max-width: 45px;
 }
 hr.light {
   border-color: white;
@@ -38,7 +38,7 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 p {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
@@ -71,7 +71,7 @@ aside {
 }
 .navbar-default .navbar-header .navbar-brand {
   color: #F05F40;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, serif;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -178,8 +178,8 @@ header .header-content .header-content-inner hr {
 header .header-content .header-content-inner p {
   font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
-  font-size: 16px;
-  margin-bottom: 50px;
+  font-size: 14px;
+  margin-bottom: 55px;
 }
 @media (min-width: 768px) {
   header {
