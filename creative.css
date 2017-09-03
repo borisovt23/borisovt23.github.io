@@ -1,0 +1,18 @@
+h1 {
+    color: silver;
+    font-family: Monospace;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: Monospace;
+    color: silver;
+    font-size: 18px;
+    text-align: center;
+}
+
+body {
+    background-color:black;
+    
+    
