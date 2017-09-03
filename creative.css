@@ -5,7 +5,7 @@ h1 {
     font-size: 40px;
 }
 
-h2 {
+h2, p {
     font-family: Monospace;
     color: silver;
     font-size: 18px;
